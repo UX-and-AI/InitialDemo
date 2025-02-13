@@ -9,7 +9,7 @@ function setup() {
   mDim = min(width / 2 - 8, (height - 32) / 2 - 8);
   textSize(20);
 
-  mInput = createInput("A picture of a cyborg smoking a cigarette in the 1940s");
+  mInput = createInput("A transparent glass bottle with a galaxy inside");
   mInput.position(4, 4);
   mInput.size(2 * mDim + 4, 24);
 
