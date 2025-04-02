@@ -1,3 +1,3 @@
-# WK04
+# HW09
 
-LLM API examples
+Testing models for proposals
