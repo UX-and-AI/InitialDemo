@@ -1,6 +1,6 @@
 let API_URL = "https://generativelanguage.googleapis.com/v1beta/models";
 
-async function generateContent(prompt, model = "gemini-1.5-flash") {
+async function generateContent(prompt, model = "gemini-2.0-flash") {
   let REQUEST_URL = `${API_URL}/${model}:generateContent?key=${GOOGLE_API_KEY}`;
 
   let res = await fetch(REQUEST_URL, {
