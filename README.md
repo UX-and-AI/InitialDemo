@@ -1,3 +1,2 @@
-# WK04
+Initial Demo
 
-LLM API examples
